@@ -5,10 +5,22 @@ a{
     text-align: end;
 }
 .bbq{
-   
-  height: 800px;
+   display: flex;
+  height: 700px;
   width: 1500px;
   box-sizing: border-box;
   display: block;
+}
+.second{
+  font-size: 3rem;
+}
+.resturant{
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ 
+ height: 300px;
+ 
+ 
 }
 
