@@ -1,6 +1,6 @@
-img{
-    width: 145px;;
-}
+ img{
+    width: 145px;
+} 
 a{
     text-align: end;
 }
@@ -18,9 +18,150 @@ a{
  display: flex;
  justify-content: space-around;
  align-items: center;
- 
  height: 300px;
- 
- 
 }
 
+.directionbutton{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+.grand{
+  background-color: rgb(71, 71, 71);
+}
+.parent{
+ 
+  display: flex;
+  
+  align-items: center;
+  gap: 200px;
+  padding: 20px;
+}
+.box-1{
+  text-align: center;
+  font-size: 2rem;
+}
+.para-1{
+  font-size: medium;
+}
+.para1{
+  font-size: 2rem;
+}
+.salt1{
+  font-size: 3rem;
+}
+box-2{
+ font-size: 350px;
+ font-weight: 400px;
+ display: flex;
+ justify-content: flex-start;
+ margin-left: 10px;
+ padding: auto;
+}
+.islimg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: auto;
+  position: relative;
+  margin-right: -50px;
+  gap: 30px;
+}
+.faisalimg{ display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: auto;
+  position: relative;
+
+}
+.bhlimg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: auto;
+  position: relative;
+  margin-right: -50px;
+  gap: 30px;
+}
+.express{
+  width: 1000px;
+  align-content: flex-start;
+}
+.exp2{
+  width: 350px;
+}
+.franchise{
+  font-size: 2rem;
+  
+  align-content: flex-start;
+ 
+}
+.village{
+  margin-right: 70px;
+  gap: -10px;
+  display: block;
+}
+.express2{
+  width:700px;
+}
+.gujrat{
+ display: inline;
+ justify-content: flex-start;
+ 
+}
+.second2{
+  font-size: 5rem;
+}
+.imgsize{
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+.sizeimage{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  gap: 5px;
+}
+.imagesize{
+  width: 300px;
+}
+.paragraph{
+
+  display: block;
+ padding: 20px;
+ border: 1px solid black;
+ width: 300px;
+ margin: 5px ;
+ text-align: left;
+ font-size: 1.2rem;
+ 
+}
+.nodot{
+  list-style: none;
+}
+.font-size{
+  font-size: 1.5rem;
+}
+.fa-brands fa-facebook{
+  background-color: red;
+ 
+}
+.intro{
+ box-sizing: border-box;
+padding-left: 100px;
+padding-right: 100px;
+ margin-bottom: 32px;
+}
+
+.imgsize2{
+  width: 600px;
+}
+.introtext{
+  font-size: 3rem;
+}
