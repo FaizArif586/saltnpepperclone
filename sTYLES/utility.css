@@ -145,4 +145,10 @@ m-5{
 .rounded{
     border-radius: 30px;
     cursor: pointer;
-} 
+}
+.fontsize3{
+    font-size: 7rem;
+}
+.bg-yellow{
+    background-color: yellow;
+}
