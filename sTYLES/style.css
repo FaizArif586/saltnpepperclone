@@ -19,6 +19,7 @@ a{
  justify-content: space-around;
  align-items: center;
  height: 300px;
+ 
 }
 
 .directionbutton{
@@ -204,10 +205,14 @@ padding-right: 100px;
   
 }
 .button-size{
-  width: 200px;
+  width: 150px;
   height: 60px;
-  font-size: 18px;
+  font-size: 12px;
   
+}
+.flex-start{
+  display: inline;
+  justify-content: flex-start;
 }
 input{
 
@@ -225,10 +230,13 @@ label{
   width: 150px;
   height: 50px;
   font-size: 18px;
-  padding: 10px;
+  padding: 0px;
  align-items: center;
   display: flex;
   justify-content: center;
+}
+.padding{
+  padding: 30px;
 }
 .parent2{
   display: flex;
@@ -237,8 +245,13 @@ label{
   
 }
 @font-face {
-  font-family: futurak-bold;
-  src: url(./fonts/futurak-bold);
+  font-family: futurak ;
+  src: url(https://fontgoods.com/);
 }
 span{
-  font-family: futurak-bold;}
+  font-family: futurak;
+  font-weight: bolder;
+}
+.sizefont{
+  font-size:2rem;
+}

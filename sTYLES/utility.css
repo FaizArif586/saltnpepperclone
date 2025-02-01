@@ -113,6 +113,15 @@ html {
 .gap-5{
     gap: 25px;
 }
+.flex-wrap{
+    flex-wrap: wrap;
+}
+.gap-8{
+    gap: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
 
 .flex-column{
     flex-direction: column;
