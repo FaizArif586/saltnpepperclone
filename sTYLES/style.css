@@ -246,8 +246,24 @@ label{
 }
 @font-face {
   font-family: futurak ;
-  src: url(https://fontgoods.com/);
+  src: url(../fonts/futurak/futurak.ttf);
 }
+@font-face {
+  font-family: buttler ;
+  src: url(../fonts/butler/Butler/Butler_Bold.otf);
+}
+.butler{
+  font-family: butler;
+  font-weight: bolder;
+}
+@font-face {
+  font-family: apercu ;
+  src: url(../fonts/Apercu-Font\ \(1\)/);
+}
+.apercu{
+  font-family: apercu;
+}
+
 span{
   font-family: futurak;
   font-weight: bolder;
